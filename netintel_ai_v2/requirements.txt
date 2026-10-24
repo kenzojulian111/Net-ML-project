@@ -1,0 +1,9 @@
+scapy>=2.6
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+matplotlib>=3.9
+openpyxl>=3.1
+psutil>=6.0
+streamlit>=1.44
+pytest>=8.0
